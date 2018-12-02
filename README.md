@@ -12,3 +12,12 @@ In this piece of work, you will see LIRI. LIRI is like iPhone's SIRI. However, w
 2. `node liri.js spotify-this-song '<song name here>'`
 3. `node liri.js movie-this '<movie name here>'`
 4. `node liri.js do-what-it-says`
+    *   concert-this
+    *   spotify-this-song
+    *   movie-this
+
+- - -
+### Demo
+
+You can see the functionality in following link:
+    *   https://drive.google.com/file/d/1TCM4lx_GE7XWWS1bOi3JgJAky4yp3TnA/view
