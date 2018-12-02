@@ -19,5 +19,5 @@ In this piece of work, you will see LIRI. LIRI is like iPhone's SIRI. However, w
 - - -
 ### Demo
 
-You can see the functionality in following link:
+*  You can see the functionality in following link:
     *   https://drive.google.com/file/d/1TCM4lx_GE7XWWS1bOi3JgJAky4yp3TnA/view
